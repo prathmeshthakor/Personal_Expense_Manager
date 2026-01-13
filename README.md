@@ -15,7 +15,7 @@ This application allows users to securely manage their expenses with authenticat
 - 📅 Monthly Expense Analysis
 - 🔒 Protected Routes (Frontend & Backend)
 - ⚡ REST API Integration
-- 🎯 ATS-Friendly UI Design
+- 🎯 UI Design
 
 ---
 
@@ -25,7 +25,7 @@ This application allows users to securely manage their expenses with authenticat
 - React.js
 - React Router DOM
 - Axios
-- CSS (ATS-Friendly UI)
+- CSS 
 
 ### Backend
 - Node.js
@@ -68,7 +68,7 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## 🧠 Key Learnings
+ 🧠 Key Learnings
 
 - JWT-based Authentication & Authorization  
 - Protected Routes using Middleware  
