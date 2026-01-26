@@ -39,10 +39,6 @@ This application allows users to securely manage their expenses with authenticat
 
 Create a `.env` file inside the `backend` folder:
 
-```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
 
 ## 🔗 API Endpoints
 
